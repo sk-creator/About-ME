@@ -1,7 +1,7 @@
 # Shivansh16
 # 👋 Hi, I'm Shivansh
 
-💼 Aspiring SOC Analyst with 1 year of IT Support experience  
+💼 Aspiring SOC Analyst with 1 year of IT Support experience (Freelance) 
 🔐 CompTIA Security+ certified  
 🛠️ Building hands-on skills in SIEM, detection engineering, and incident response  
 🎯 Passionate about threat hunting and blue team defense  
